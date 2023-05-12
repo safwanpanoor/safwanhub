@@ -1,4 +1,8 @@
 heloooi
 kooi
 
+<<<<<<< HEAD
 negative
+=======
+positive
+>>>>>>> safe
